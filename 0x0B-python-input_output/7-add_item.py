@@ -15,3 +15,4 @@ if __name__ == "__main__":
         if i > 0:
             my_list.append(arg)
     save_to_json_file(my_list, file_name)
+
